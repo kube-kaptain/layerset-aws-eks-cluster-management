@@ -6,4 +6,4 @@ metadata:
 spec:
   layers:
     - layer-github-flow-strict:[1.3,2.0)
-    - layer-aws-eks-cluster-management:[1.7,2.0)
+    - layer-aws-eks-cluster-management:[1.8,2.0)
