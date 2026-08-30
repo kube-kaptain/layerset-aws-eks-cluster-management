@@ -1,8 +1,8 @@
-apiVersion: kaptain.org/1.25
+apiVersion: kaptain.org/1.29
 kind: layer-and-layerset-build
 metadata:
   description: "AWS EKS cluster management layerset composing quality and build configuration"
 
 spec:
   layers:
-    - layerset-and-layer-build:[1.4]
+    - layerset-and-layer-build:[1.7]
